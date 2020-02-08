@@ -16,7 +16,6 @@ call isBadVersion(4) -> true
 ```
 Then `4` is the first bad version.
 
----
 ## Search Word
 
 Design a data structure that supports the following two operations:
@@ -41,7 +40,6 @@ search("b..") -> true
 **Note:**
 You may assume that all words are consist of lowercase letters a-z.
 
----
 ## Islands
 
 Given a 2d grid map of `1`s *land* and `0`s *water*, count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
@@ -66,7 +64,6 @@ Input:
 Output: 3
 ```
 
----
 ## Parenthesis
 
 Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results.
